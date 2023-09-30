@@ -1,0 +1,11 @@
+/*Isaac Wani 8932544*/
+body{
+    font :normal normal normal 12px/1.5 Arial, Helvetica; 
+    width :100px;
+    height : 100vh;
+    background-color: hsla(298, 13%, 48%, 0.981);
+}
+h2{
+    color: red;
+    font-size: 2em
+}
